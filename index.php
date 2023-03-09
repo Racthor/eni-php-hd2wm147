@@ -12,6 +12,7 @@
             <li><a href="demo/base.php">Lundi : base.php</a></li>
             <li><a href="demo/index.php">Mardi : index.php</a></li>
             <li><a href="demo/exoFonctionsUtiles.php">Mercredi : exoFonctionsUtiles.php</a></li>
+            <li><a href="demo/classes_exo5/exo5Main.php">Jeudi : TP1 exo 5 des classes</a></li>
         </ol>
         <h2>Les bases du langage</h2>
         <ol>
