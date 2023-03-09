@@ -52,7 +52,7 @@
             <li><a href="3-formulaires/traitementAPart/index.php">Les Formulaires avec traitement à part</a></li>
             <li><a href="3-formulaires/generationForm/index.php">La Génération d'un formulaire</a></li>
             <li><a href="3-formulaires/traitementIntegre/index.php">Les Formulaires avec traitement intégré</a></li>
-<!--            <li><a href="3-formulaires/tp1/index.php">TP 1 : Formulaires</a></li> -->
+            <li><a href="3-formulaires/tp1/index.php">TP 1 : Formulaires</a></li>
         </ol>
         <h2>L'accès aux données avec PDO</h2>
         <ol>
