@@ -7,7 +7,6 @@
   <body>
     <?php
         $alert = "";
-        $shouldAlert = false;
         foreach ($_POST as $name => $value) {
             if(!isset($value) || empty($value)){
                 $alert .= "Le champ $name n'a pas été rempli\\n ";
